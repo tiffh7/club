@@ -8,12 +8,14 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-use of flip flops to control taffic light color
+
+use of flip flops to control taffic light color.
 
 
 ## How to test
 
-do something
+do something.
+
 ## External hardware
 
-leds
+leds.
