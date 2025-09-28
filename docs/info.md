@@ -8,6 +8,7 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
+use of flip flops to control taffic light color
 
 Explain how your project works
 
