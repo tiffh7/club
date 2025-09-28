@@ -10,10 +10,10 @@ You can also include images in this folder and reference them in the markdown. E
 ## How it works
 use of flip flops to control taffic light color
 
-Explain how your project works
 
-idk
-Explain how to use your project
+## How to test
 
-leds 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+do something
+## External hardware
+
+leds
